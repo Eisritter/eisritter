@@ -28,7 +28,7 @@
 # Диплом
 <code><img src="qaguruLogo.svg"></code>
    
-В рамках обучения в школе <a href="QA.GURU">QA.GURU</a> была подготовлена выпускная работа, которую можно посмотреть здесь:
+В рамках обучения в школе <a href="http://qa.guru/">QA.GURU</a> была подготовлена выпускная работа, которую можно посмотреть здесь:
 
  <a href="https://github.com/Eisritter/QA-GURU-13"><img src="https://starchenkov.pro/qa-guru/img/skills/Github.svg" width="25"/> Github</a>
 
