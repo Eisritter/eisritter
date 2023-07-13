@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 I'm QA Engineer for 3 years
+- 💼 I'm QA Engineer for 4 years
 - 💚 I’m currently  working on Leroy Merlin
 - 📫 My [CV](https://career.habr.com/eisritter)
 
